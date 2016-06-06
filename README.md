@@ -666,6 +666,7 @@ See https://github.com/n1trux/awesome-sysadmin#monitoring and https://github.com
  * [PHP Password Manager](http://www.ppma.pw) - A web based, encrypting password manager, based on the Yii framework. ([Source Code](https://github.com/pklink/ppma)) `BSD` `PHP`
  * [RatticDB](http://rattic.org/) - Password Management for Humans. ([Source Code](https://github.com/tildaslash/RatticWeb), [Demo](https://demo.rattic.org/cred/list/))
  * [Teampass](http://teampass.net/) - Password manager dedicated for managing passwords in a collaborative way on any server Apache, MySQL and PHP. ([Source Code](https://github.com/nilsteampassnet/TeamPass/)) `GPLv3` `PHP`
+ * [Passbolt](https://github.com/passbolt) - The password manager your team was waiting for. Free, open source, extensible, based on OpenPGP. ([Source Code](https://github.com/passbolt)) `AGPLv3` `Javascript`
 
 
 ## Pastebins
